@@ -14,7 +14,6 @@ public class StudentModel {
     private String phone;
 
     public StudentModel(){
-
     }
 
     public Long getId() {
